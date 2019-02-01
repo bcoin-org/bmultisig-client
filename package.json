@@ -1,6 +1,6 @@
 {
   "name": "bmultisig-client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Bmultisig client",
   "keywords": [
     "bcoin",
@@ -9,10 +9,10 @@
     "websockets"
   ],
   "license": "MIT",
-  "repository": "git://github.com/nodar-chkuaselidze/bmultisig-client.git",
-  "homepage": "https://github.com/nodar-chkuaselidze/bmultisig-client",
+  "repository": "git://github.com/bcoin-org/bmultisig-client.git",
+  "homepage": "https://github.com/bcoin-org/bmultisig-client",
   "bugs": {
-    "url": "https://github.com/nodar-chkuaselidze/bmultisig-client/issues"
+    "url": "https://github.com/bcoin-org/bmultisig-client/issues"
   },
   "author": "Nodari Chkuaselidze <nodar.chkuaselidze@gmail.com>",
   "main": "./lib/bmultisig-client.js",
