@@ -1,0 +1,33 @@
+{
+  "name": "bmultisig-client",
+  "version": "0.0.1",
+  "description": "Bmultisig client",
+  "keywords": [
+    "bcoin",
+    "http",
+    "request",
+    "websockets"
+  ],
+  "license": "MIT",
+  "repository": "git://github.com/nodar-chkuaselidze/bmultisig-client.git",
+  "homepage": "https://github.com/nodar-chkuaselidze/bmultisig-client",
+  "bugs": {
+    "url": "https://github.com/nodar-chkuaselidze/bmultisig-client/issues"
+  },
+  "author": "Nodari Chkuaselidze <nodar.chkuaselidze@gmail.com>",
+  "main": "./lib/bmultisig-client.js",
+  "scripts": {
+    "lint": "eslint lib/ test/ || exit 0",
+    "test": "bmocha --reporter spec test/*-test.js"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "dependencies": {
+    "bclient": "^0.1.6",
+    "bsert": "0.0.8"
+  },
+  "devDependencies": {
+    "bmocha": "^1.0.0"
+  }
+}
