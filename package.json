@@ -1,6 +1,6 @@
 {
   "name": "bmultisig-client",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Bmultisig client",
   "keywords": [
     "bcoin",
@@ -28,6 +28,6 @@
     "bsert": "0.0.8"
   },
   "devDependencies": {
-    "bmocha": "^1.0.0"
+    "bmocha": "^1.0.1"
   }
 }
