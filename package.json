@@ -24,6 +24,7 @@
     "node": ">=8.0.0"
   },
   "dependencies": {
+    "bcfg": "^0.1.5",
     "bclient": "^0.1.6",
     "bsert": "0.0.8"
   },
