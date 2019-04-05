@@ -24,10 +24,10 @@
     "node": ">=8.0.0"
   },
   "dependencies": {
-    "bclient": "^0.1.6",
-    "bsert": "0.0.8"
+    "bclient": "~0.1.7",
+    "bsert": "~0.0.10"
   },
   "devDependencies": {
-    "bmocha": "^1.0.1"
+    "bmocha": "^2.1.0"
   }
 }
